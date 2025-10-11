@@ -29,6 +29,6 @@
 
 🖼️ Скриншот проекта
 
-![project Preview](PostgreSQL-project/SQL- Shell - 01.png)
+![project Preview] (PostgreSQL-project/SQL- Shell - 01.png)
 
 
