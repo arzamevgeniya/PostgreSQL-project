@@ -29,6 +29,8 @@
 
 🖼️ Скриншот проекта
 
-![Dashboard Preview](PostgreSQL-project -SQLShell -  03.png)
+![Dashboard Preview](PostgreSQL-project-SQLShell-03.png)
+
+![Dashboard Preview](PostgreSQL-project-SQLShell-02.png)
 
 
